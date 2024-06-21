@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sohai\\ASP.NET WEB\\SampleWebApp.csproj": {}
+    "C:\\Users\\sohai\\OneDrive\\Desktop\\23\\new-project\\SampleWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sohai\\ASP.NET WEB\\SampleWebApp.csproj": {
+    "C:\\Users\\sohai\\OneDrive\\Desktop\\23\\new-project\\SampleWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohai\\ASP.NET WEB\\SampleWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\sohai\\OneDrive\\Desktop\\23\\new-project\\SampleWebApp.csproj",
         "projectName": "SampleWebApp",
-        "projectPath": "C:\\Users\\sohai\\ASP.NET WEB\\SampleWebApp.csproj",
+        "projectPath": "C:\\Users\\sohai\\OneDrive\\Desktop\\23\\new-project\\SampleWebApp.csproj",
         "packagesPath": "C:\\Users\\sohai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohai\\ASP.NET WEB\\obj\\",
+        "outputPath": "C:\\Users\\sohai\\OneDrive\\Desktop\\23\\new-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sohai\\AppData\\Roaming\\NuGet\\NuGet.Config",
